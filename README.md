@@ -1,4 +1,4 @@
-# IPBench-Bench [NeurIPS 2024 D&B Track]
+# IPBench
 [**🌐 Homepage**](https://IPBench.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/IPBench/IPBench) | [**🤗 Paper**](https://huggingface.co/papers/2406.05862) | [**📖 arXiv**]() | [**GitHub**](https://github.com/IPBench/IPBench)
 
 
