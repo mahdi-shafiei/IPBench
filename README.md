@@ -13,6 +13,14 @@ Intellectual property, especially patents, shares similarities with academic pap
   <img src="framework.bmp" alt="introduction">
 </p>
 
+## Dataset Creation
+
+To bridge the gap between real-world demands and the application of LLMs in the IP field, we introduce the first comprehensive IP task taxonomy. Our taxonomy is based on Webb's Depth of Knowledge (DOK) Theory and is extended to include four hierarchical levels: Information Processing, Logical Reasoning, Discriminant Evaluation, and Creative Generation. It includes an evaluation of models' intrinsic knowledge of IP, along with a detailed analysis of IP text from both point-wise and pairwise perspectives, covering technical and legal aspects.
+
+Building on this taxonomy, we develop **IPBench**, the first comprehensive Intellectual Property Benchmark for LLMs, consisting of 10,374 data points across 20 tasks aimed at evaluating the knowledge and capabilities of LLMs in real-world IP applications.
+
+This holistic evaluation enables us to gain a hierarchical deep insight into LLMs, assessing their capabilities in in-domain memory, understanding, reasoning, discrimination, and creation across different IP mechanisms. Due to the legal nature of the IP field, there are regional differences between countries. Our IPBench is constrained within the legal frameworks of the United States and mainland China, making it a bilingual benchmark.
+
 ## 🏆 Mini-Leaderboard
 | Open-source Models        | Score |
 |---------------------------|-------|
