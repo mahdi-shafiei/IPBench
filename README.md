@@ -76,4 +76,4 @@ Shiwen Ni: sw.ni@siat.ac.cn
 ```
 
 ## Star History
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwX0V3UUVIQTZyVFhBNUxKSkN1UkZTYjVtdm5xQ2RVbjM2SGdSMA==#IPBench/IPBench&Date" frameBorder="0"></iframe>
+[![Star History Chart](https://api.star-history.com/svg?repos=IPBench/IPBench&type=Date)](https://star-history.com/#IPBench/IPBench&Date)
