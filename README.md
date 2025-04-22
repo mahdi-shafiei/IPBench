@@ -32,10 +32,22 @@ For more detailed information, please refer to our paper and Hugging Face datase
 pip install -r requirements.txt
 ```
 
+## Inference
+
+We provide the inference code using either vLLM or the OpenAI API in the *src* folder, along with corresponding run scripts in the *scripts* folder.
+```
+sh inference.sh
+```
+
 ## Evaluation
 
-After you finish inference and confirm there are no error messages, please run the answer parsing and evaluation pipeline as follows: 
+We provide separate evaluation code for MCQA, Classification, and Generation tasks in the *eval* folder, along with corresponding run scripts in the *scripts* folder.
 ```
+sh eval-mcqa.sh
+
+sh eval-classification.sh
+
+sh eval-generation.sh
 ```
 
 ## Disclaimers
