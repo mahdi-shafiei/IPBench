@@ -37,6 +37,12 @@ pip install -r requirements.txt
 We provide the inference code using either vLLM or the OpenAI API in the *src* folder, along with corresponding run scripts in the *scripts* folder.
 ```
 sh inference.sh
+
+sh inference-api.sh
+
+sh inference-fewshot.sh
+
+sh inference-cot.sh
 ```
 
 ## Evaluation
