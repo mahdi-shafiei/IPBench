@@ -45,6 +45,8 @@ We provide separate evaluation code for MCQA, Classification, and Generation tas
 ```
 sh eval-mcqa.sh
 
+sh eval-3-5.sh
+
 sh eval-classification.sh
 
 sh eval-generation.sh
