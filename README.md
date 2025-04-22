@@ -5,6 +5,8 @@
 This repo contains the evaluation code for the paper "[IPBench: Benchmarking the knowledge of Large Language Models in Intellectual Property]()"
 ## 🔔News
 
+- 🔥 [2025-4-22] We release the codebase of IPBench.
+
 ## Introduction
 
 Intellectual property, especially patents, shares similarities with academic papers in that it encapsulates the essence of domain knowledge across various technical fields. However, it is also governed by the intellectual property legal frameworks of different countries and regions. As such, it carries technical, legal, and economic significance, and is closely connected to real-world intellectual property services. In particular, intellectual property data is a rich, multi-modal data type with immense potential for content mining and analysis. Focusing on the field of intellectual property, we propose a comprehensive four-level IP task taxonomy based on the DOK model. Building on this taxonomy, we developed IPBench, a large language model benchmark consisting of 10,374 data instances across 20 tasks and covering 8 types of IP mechanisms. Compared to existing related benchmarks, IPBench features the largest data scale and the most comprehensive task coverage, spanning technical and legal tasks as well as understanding, reasoning, classification, and generation tasks.
