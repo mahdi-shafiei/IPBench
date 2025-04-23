@@ -26,7 +26,7 @@ This holistic evaluation enables us to gain a hierarchical deep insight into LLM
 
 For more detailed information, please refer to our paper and Hugging Face datasets:
 
-- [**📖 arXiv**]()
+- [**📖 arXiv**](https://arxiv.org/abs/2504.15524)
 - [**🤗 Dataset**](https://huggingface.co/datasets/IPBench/IPBench)
 
 
