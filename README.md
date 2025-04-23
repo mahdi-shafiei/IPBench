@@ -1,8 +1,8 @@
 # IPBench
-[**🌐 Homepage**](https://IPBench.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/IPBench/IPBench) | [**🤗 Paper**]() | [**📖 arXiv**]() | [**GitHub**](https://github.com/IPBench/IPBench)
+[**🌐 Homepage**](https://IPBench.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/IPBench/IPBench) | [**🤗 Paper**]() | [**📖 arXiv**](https://arxiv.org/abs/2504.15524) | [**GitHub**](https://github.com/IPBench/IPBench)
 
 
-This repo contains the evaluation code for the paper "[IPBench: Benchmarking the knowledge of Large Language Models in Intellectual Property]()"
+This repo contains the evaluation code for the paper "[IPBench: Benchmarking the knowledge of Large Language Models in Intellectual Property](https://arxiv.org/abs/2504.15524)"
 ## 🔔News
 
 - 🔥 [2025-4-22] We release the codebase of IPBench.
