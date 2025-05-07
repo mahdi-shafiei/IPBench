@@ -5,7 +5,7 @@
 This repo contains the evaluation code for the paper "[IPBench: Benchmarking the knowledge of Large Language Models in Intellectual Property](https://arxiv.org/abs/2504.15524)"
 ## 🔔News
 
-- 🧐 [] We have added the results of Qwen3-8B, which require a newer version of vLLM (v0.8.5 or later).
+- 🧐 [2025-5-7] We have added the results of Qwen3-8B, which require a newer version of vLLM (v0.8.5 or later).
 - 🎉 [2025-4-23] Our IPBench paper ([IPBench: Benchmarking the Knowledge of Large Language Models in Intellectual Property](https://arxiv.org/abs/2504.15524)) can be accessed in arXiv!
 - 🔥 [2025-4-22] We release the codebase of IPBench.
 
